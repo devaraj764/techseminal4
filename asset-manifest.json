@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b93f564.chunk.css",
+    "main.js": "/static/js/main.5acec5b6.chunk.js",
+    "main.js.map": "/static/js/main.5acec5b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb385e5b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb385e5b.js.map",
+    "static/js/2.5a68707a.chunk.js": "/static/js/2.5a68707a.chunk.js",
+    "static/js/2.5a68707a.chunk.js.map": "/static/js/2.5a68707a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3b93f564.chunk.css.map": "/static/css/main.3b93f564.chunk.css.map",
+    "static/js/2.5a68707a.chunk.js.LICENSE.txt": "/static/js/2.5a68707a.chunk.js.LICENSE.txt",
+    "static/media/Hello-rafiki.6ea1f30c.png": "/static/media/Hello-rafiki.6ea1f30c.png",
+    "static/media/coding_.b5fdbd8d.png": "/static/media/coding_.b5fdbd8d.png",
+    "static/media/digital_nomad.57e5954d.png": "/static/media/digital_nomad.57e5954d.png",
+    "static/media/mobile_phone.c719b230.png": "/static/media/mobile_phone.c719b230.png",
+    "static/media/mountains2-c.65e77401.png": "/static/media/mountains2-c.65e77401.png",
+    "static/media/mountains2.0d83a526.png": "/static/media/mountains2.0d83a526.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb385e5b.js",
+    "static/js/2.5a68707a.chunk.js",
+    "static/css/main.3b93f564.chunk.css",
+    "static/js/main.5acec5b6.chunk.js"
+  ]
+}
